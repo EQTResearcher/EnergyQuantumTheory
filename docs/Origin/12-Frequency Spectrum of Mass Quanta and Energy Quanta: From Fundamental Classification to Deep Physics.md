@@ -1,5 +1,7 @@
 # Frequency Spectrum of Mass Quanta and Energy Quanta: From Fundamental Classification to Deep Physics
 
+Copyright (c) 2025 Kaisheng Li & Longji Li. Licensed under CC BY-SA 4.0.
+
 Through detailed analysis of elementary particle frequencies, we discover clear demarcation laws within the frequency spectrum. When using `10²⁰` Hertz and `10²⁶` Hertz as boundaries, the particle world reveals three distinct regions, each possessing unique physical characteristics.
 
 ## Low-Frequency Region (<10²⁰ Hertz): Domain of Energy Quanta
