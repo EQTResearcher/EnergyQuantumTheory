@@ -1,5 +1,7 @@
 # Planck's Formula: The Root of Mass-Energy Unification Connecting the Micro and Macro Realms
 
+Copyright (c) 2025 Kaisheng Li & Longji Li. Licensed under CC BY-SA 4.0.
+
 In the grand picture of physics, Planck's formula `E = hν` and Einstein's equation `E = mc²` together form the cornerstone of modern physics. Deep research reveals that although these two formulas illuminate the relationship between energy and mass from micro and macro perspectives respectively, their theoretical roots can be traced back to the quantum foundation established by Planck's formula.
 
 ## Quantum Foundation of the Microscopic World
