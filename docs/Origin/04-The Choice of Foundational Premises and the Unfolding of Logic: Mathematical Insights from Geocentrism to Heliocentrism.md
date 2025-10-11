@@ -1,5 +1,7 @@
 # The Choice of Foundational Premises and the Unfolding of Logic: Mathematical Insights from Geocentrism to Heliocentrism
 
+Copyright (c) 2025 Kaisheng Li & Longji Li. Licensed under CC BY-SA 4.0.
+
 The centuries-long debate between geocentrism and heliocentrism clearly reveals the fundamental characteristics of scientific theory development: the choice of foundational assumptions determines the direction of theory, while mathematical logic systematically elaborates upon this choice. Both theoretical systems employed rigorous mathematical tools, yet diverged into distinct theoretical paths due to their differing basic premises.
 
 ## Ptolemy's Geocentric System
