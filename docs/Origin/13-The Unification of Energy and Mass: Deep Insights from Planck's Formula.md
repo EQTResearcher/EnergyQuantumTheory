@@ -1,5 +1,7 @@
 # The Unification of Energy and Mass: Deep Insights from Planck's Formula
 
+Copyright (c) 2025 Kaisheng Li & Longji Li. Licensed under CC BY-SA 4.0.
+
 Throughout the development of physics, the relationship between energy and mass has always been a core issue. By sorting elementary particles according to frequency and analyzing their characteristics, we have discovered a profound fact: both massless energy quanta and massive mass quanta can be unified under the framework of Planck's formula `E = hν`. This discovery not only reveals the deep unity of nature but also provides a new perspective for understanding the essence of the quantum world.
 
 ## Unified Patterns in the Frequency Spectrum
