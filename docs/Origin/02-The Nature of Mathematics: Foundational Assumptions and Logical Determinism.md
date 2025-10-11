@@ -1,5 +1,7 @@
 # The Nature of Mathematics: Foundational Assumptions and Logical Determinism
 
+Copyright (c) 2025 Kaisheng Li & Longji Li. Licensed under CC BY-SA 4.0.
+
 The construction of mathematical systems begins with the selection of fundamental premises—namely, axioms or basic assumptions. These postulates form the foundation of the mathematical edifice, from which all subsequent content unfolds through logical deduction. This understanding reveals the essence of mathematics as a formal system: it does not rely on concrete experience but is built upon abstract rules and logical chains.
 
 ## Axiomatic Systems and Human Thought
