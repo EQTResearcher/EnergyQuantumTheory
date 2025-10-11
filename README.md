@@ -18,5 +18,8 @@ $$
 2. Read: `docs/theory/`
 3. Submit: Pull Requests with code/theory
 Join us on X: #EQTChallenge
-Contact: [your email or X handle]
-Copyright (c) 2025 [Your Name]. Licensed under MIT License.
+Contact: lkshbj@sina.com
+### Licensing
+- **Code**: Licensed under the [MIT License](LICENSE-CODE).
+- **Documentation**: Licensed under the [CC BY-SA 4.0 License](LICENSE-DOCS).
+Copyright (c) 2025 Kaisheng Li & Longji Li.
