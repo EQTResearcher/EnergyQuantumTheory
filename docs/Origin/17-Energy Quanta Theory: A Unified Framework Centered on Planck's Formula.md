@@ -1,5 +1,7 @@
 # Energy Quanta Theory: A Unified Framework Centered on Planck's Formula
 
+Copyright (c) 2025 Kaisheng Li & Longji Li. Licensed under CC BY-SA 4.0.
+
 At the crossroads where contemporary physics faces theoretical challenges, a new theoretical framework based on Planck's formula `E = hν`—Energy Quanta Theory (EQT)—is demonstrating its unique value. This theory seeks to return to the origins of quantum mechanics by combining Planck's formula with Einstein's mass-energy equation `E = mc²`, aiming to construct a complete theoretical system capable of uniformly describing both the microscopic quantum world and the macroscopic relativistic world.
 
 ## Theoretical Foundation: Reexamining Planck's Formula
