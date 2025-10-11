@@ -1,5 +1,7 @@
 # Frequency Ranking of Elementary Particles: Revealing the Essential Differences Between Energy Quanta and Mass Quanta
 
+Copyright (c) 2025 Kaisheng Li & Longji Li. Licensed under CC BY-SA 4.0.
+
 Arranging the elementary particles of the Standard Model according to their frequencies provides us with a completely new perspective to examine the nature of the quantum world. Through the energy-frequency relationship established by Planck's formula `E = hν`, we discover that the particle world exhibits a clear distinction between energy quanta and mass quanta. Based on calculations using the rest energy or typical energy of particles, the characteristic frequencies of various particles show an obvious hierarchical distribution.
 
 ## High-Frequency Particles
