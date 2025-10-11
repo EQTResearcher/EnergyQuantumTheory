@@ -1,5 +1,7 @@
 # The Limitations of Mathematics: Why It Cannot Determine Physical Truth
 
+Copyright (c) 2025 Kaisheng Li & Longji Li. Licensed under CC BY-SA 4.0.
+
 The relationship between mathematics and physics remains a central topic in the philosophy of science. While mathematics provides powerful descriptive tools for physics, it cannot by itself determine the validity of physical theories. This fundamental limitation was clearly demonstrated in the historical debate between geocentrism and heliocentrism.
 
 ## Ptolemy's Geocentric System
