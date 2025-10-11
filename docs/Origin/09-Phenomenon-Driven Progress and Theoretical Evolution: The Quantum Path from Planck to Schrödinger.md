@@ -1,5 +1,7 @@
 # Phenomenon-Driven Progress and Theoretical Evolution: The Quantum Path from Planck to Schrödinger
 
+Copyright (c) 2025 Kaisheng Li & Longji Li. Licensed under CC BY-SA 4.0.
+
 The development of physics has consistently followed a phenomenon-driven tradition. The establishment of quantum mechanics perfectly exemplifies this principle: from Planck's energy quantization to de Broglie's matter wave hypothesis, and finally to Schrödinger's wave mechanics—each theoretical breakthrough was deeply rooted in understanding specific experimental phenomena.
 
 ## Planck's Formula and Energy Quantization
