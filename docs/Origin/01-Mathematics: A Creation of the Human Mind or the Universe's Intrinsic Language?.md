@@ -1,5 +1,7 @@
 # Mathematics: A Creation of the Human Mind or the Universe's Intrinsic Language?
 
+Copyright (c) 2025 Kaisheng Li & Longji Li. Licensed under CC BY-SA 4.0.
+
 "Mathematics does not exist in nature! It is a unique form of conscious logical thinking and reasoning specific to humans." This perspective raises a profound philosophical question: Is mathematics a product of human consciousness or an inherent existence of the universe? This issue touches the core of mathematical philosophy and invites multiple layers of contemplation.
 
 ## Two Main Viewpoints
