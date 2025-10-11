@@ -1,5 +1,7 @@
 # Frequency and Range of Interaction: Revealing Deep-Seated Connections Among Elementary Particles
 
+Copyright (c) 2025 Kaisheng Li & Longji Li. Licensed under CC BY-SA 4.0.
+
 In the quantum world, there exists a profound physical connection between frequency and range of interaction. Through the combination of Planck's formula `E = hν` and Einstein's mass-energy equivalence `E = mc²`, we can construct a unified framework to understand the essential characteristics of elementary particles. This relationship not only reveals the fundamental distinction between energy quanta and mass quanta but also provides us with new perspectives for understanding the nature of fundamental interactions.
 
 ## Frequency and Interaction Range in Energy Quanta
