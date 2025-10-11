@@ -1,5 +1,7 @@
 # The First Principles of Quantum Mechanics: From Planck's Formula to the Schrödinger Equation
 
+Copyright (c) 2025 Kaisheng Li & Longji Li. Licensed under CC BY-SA 4.0.
+
 The development of quantum mechanics has persistently provoked deep thought: what constitutes the first principle of this theoretical system? Is it Planck's formula that initiated the quantum era, or the Schrödinger equation that constructed the complete theoretical framework? Exploring this question not only concerns historical context but also touches the essence of quantum mechanics.
 
 ## Planck's Formula and the Birth of Quantum Theory
