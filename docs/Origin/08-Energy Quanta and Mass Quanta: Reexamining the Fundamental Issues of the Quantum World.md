@@ -1,5 +1,7 @@
 # Energy Quanta and Mass Quanta: Reexamining the Fundamental Issues of the Quantum World
 
+Copyright (c) 2025 Kaisheng Li & Longji Li. Licensed under CC BY-SA 4.0.
+
 Within the fundamental framework of quantum mechanics, the traditional classification of elementary particles into bosons and fermions in the Standard Model may obscure a more essential physical reality: the fundamental distinction between energy and mass. Reexamining the quantum world from the perspective of energy quanta and mass quanta can not only reveal the deeper significance of Planck's formula but may also provide new insights for understanding unsolved mysteries such as the graviton.
 
 ## Bosons, Fermions, and the Need for a New Classification
