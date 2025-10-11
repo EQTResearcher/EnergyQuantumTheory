@@ -1,5 +1,7 @@
 # The Geocentric vs. Heliocentric Debate: The Interplay Between Foundational Assumptions and Mathematical Logic
 
+Copyright (c) 2025 Kaisheng Li & Longji Li. Licensed under CC BY-SA 4.0.
+
 The debate between geocentrism and heliocentrism in 16th-century astronomy reveals fundamental characteristics of mathematics in scientific exploration: as a pure logical tool, mathematics remains neutral, serving both geocentric and heliocentric theories equally. The core of this controversy lies not in mathematics itself, but in the divergent conclusions drawn from different foundational assumptions.
 
 ## The Neutrality of Mathematics
