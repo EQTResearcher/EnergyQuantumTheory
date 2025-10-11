@@ -1,5 +1,7 @@
 # The Anthropic Principle and Quantum Mechanics: The Path from Planck's Formula to the Schrödinger Equation
 
+Copyright (c) 2025 Kaisheng Li & Longji Li. Licensed under CC BY-SA 4.0.
+
 The development of quantum mechanics reveals a profound epistemological issue: our understanding of physical theories is inevitably constrained by the limitations of human observational capabilities. The anthropic principle provides a unique perspective for understanding the relationship between Planck's formula and the Schrödinger equation.
 
 ## Planck's Formula and the Concept of Energy Quanta
