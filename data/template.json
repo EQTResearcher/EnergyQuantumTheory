@@ -1,0 +1,40 @@
+{
+  "dataset_id": "[Data_Type]_[Experiment/Project]_[Brief_Description]",
+  "name": "[Dataset Name]",
+  "description": "[Dataset content and purpose]",
+  "data_type": "[Experimental Data/Simulation Data/Observational Data]",
+  "eqt_relevance": "[Connection to EQT, e.g., frequency field, same-frequency resonance]",
+  "time_range": {
+    "start": "[YYYY-MM-DD]",
+    "end": "[YYYY-MM-DD]"
+  },
+  "size": "[e.g., 1.5 GB]",
+  "file_count": 0,
+  "source": {
+    "institution": "[Institution/Project Name]",
+    "url": "[Public URL]",
+    "license": "[License Type]",
+    "citation": "[Academic citation, e.g., BibTeX]"
+  },
+  "format": {
+    "file_type": "[e.g., .csv, .h5]",
+    "fields": [
+      {
+        "name": "[Field Name]",
+        "unit": "[Unit]",
+        "description": "[Field Description]"
+      }
+    ],
+    "preprocessing": "[Preprocessing notes]"
+  },
+  "tools": ["[Recommended tools, e.g., Python]"],
+  "eqt_analysis": "[EQT analysis suggestions]",
+  "contributors": ["[GitHub Username]"],
+  "update_history": [
+    {
+      "date": "[YYYY-MM-DD]",
+      "description": "[Update description]"
+    }
+  ],
+  "contact": "[e.g., Discord channel link]"
+}
