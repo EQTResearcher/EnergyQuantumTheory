@@ -21,9 +21,9 @@
 ## 3. Data Format & Content
 
 - **File List**:
-  - [Filename]: [Description]
-- **Format**: [e.g., .csv, .fits, .h5]
-- **Field Description**: [e.g., timestamp, frequency, amplitude]
+  - [Filename]: [Description ]
+  - Format: [e.g., .csv, .fits, .h5]
+  - Field Description: [e.g., timestamp, frequency, amplitude]
 - **Data Structure**: [e.g., 2D time-frequency series]
 - **Units**: [e.g., Hz, GeV, K]
 - **Preprocessing Notes**: [e.g., whether cleaned, filtered]
