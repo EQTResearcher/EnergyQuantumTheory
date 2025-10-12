@@ -54,6 +54,7 @@ The physical world involves the coexistence of multiple types of energy quanta; 
 - **Modified Effective Force Formula**:
   Considering the frequency-spin selection rule, the force acting on a particle with spin `s` should be determined by the weighted sum of the gradients of those energy quanta frequency components to which it can effectively couple:
 
+  F = -κ m ∑ⱼ [ g(fⱼ, s) · ∇ρⱼ ]
 
   - This formula indicates that the total force is a weighted sum of the gradients `∇ρⱼ` of each frequency component, where the weight is precisely the coupling efficiency `g(fⱼ, s)` between the energy quantum of that frequency and the particle's spin `s`.
 
