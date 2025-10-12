@@ -1,0 +1,50 @@
+{
+  "dataset_id": "GravitationalWave_LIGO_2015-2019",
+  "name": "LIGO Gravitational Wave Data 2015-2019",
+  "description": "LIGO gravitational wave data for binary black hole and neutron star mergers, used to study frequency characteristics.",
+  "data_type": "Observational Data",
+  "eqt_relevance": "Validate EQT frequency sequencing (35-250 Hz) and graviton behavior in dynamic equations",
+  "time_range": {
+    "start": "2015-09-01",
+    "end": "2019-12-31"
+  },
+  "size": "500 MB",
+  "file_count": 2,
+  "source": {
+    "institution": "LIGO Scientific Collaboration",
+    "url": "https://www.gw-openscience.org/GWTC-1/",
+    "license": "CC0 1.0 Universal",
+    "citation": "@article{LIGO_GWTC1, title={GWTC-1: A Gravitational-Wave Transient Catalog of Compact Binary Mergers Observed by LIGO and Virgo during the First and Second Observing Runs}, author={LIGO Scientific Collaboration and Virgo Collaboration}, journal={Physical Review X}, volume={9}, number={3}, pages={031040}, year={2019}, doi={10.1103/PhysRevX.9.031040}}"
+  },
+  "format": {
+    "file_type": "HDF5",
+    "fields": [
+      {
+        "name": "time",
+        "unit": "s",
+        "description": "Timestamp of measurement"
+      },
+      {
+        "name": "strain",
+        "unit": "dimensionless",
+        "description": "Gravitational wave strain"
+      },
+      {
+        "name": "frequency",
+        "unit": "Hz",
+        "description": "Frequency of signal"
+      }
+    ],
+    "preprocessing": "Removed noise below 20 Hz and above 1000 Hz, retained 35-250 Hz signals"
+  },
+  "tools": ["Python", "h5py", "GWpy"],
+  "eqt_analysis": "Extract 35-250 Hz frequency distribution to validate EQT's predicted gravitational quanta; simulate gravitational wave signals using EQT dynamic equation",
+  "contributors": ["EQTResearcher"],
+  "update_history": [
+    {
+      "date": "2025-10-12",
+      "description": "Initial upload of GW150914 and GW170817 data"
+    }
+  ],
+  "contact": "Discord: #EQT-data, X: @EQTResearch"
+}
