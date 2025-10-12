@@ -1,5 +1,7 @@
 # What is Force? Core Concepts of the Energy Quantum Theory
 
+Copyright (c) 2025 Kaisheng Li & Longji Li. Licensed under CC BY-SA 4.0.
+
 ## Introduction to Force in Energy Quantum Theory (EQT)
 
 The core of the **Energy Quantum Theory (EQT)** lies in constructing a framework for unifying the fundamental interactions by starting from observable physical phenomena. It proposes that the **dynamic process of energy minimization** between mass bodies serves as the unified mechanism for force, specifically manifested as the process where the dynamic changes in the **energy quantum number density gradient** tend towards uniformity.
