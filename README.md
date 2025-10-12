@@ -4,6 +4,11 @@ Welcome to the Energy Quantum Theory (EQT) repository! EQT unifies gravity and q
 $$
 \frac{\partial \rho}{\partial t} = k \rho^2 - D \nabla^2 \rho - \nabla \cdot (\rho \mathbf{v}) + S
 $$
+
+### Guiding Principle
+
+- Building an Open, Collaborative, and AI-Driven EQT Research Ecosystem.
+
 ### Goals
 - Develop frequency field theory ( $\rho_\nu (\mathbf{r}, t)$ ).
 - Simulate galaxy formation and CMB spectra.
