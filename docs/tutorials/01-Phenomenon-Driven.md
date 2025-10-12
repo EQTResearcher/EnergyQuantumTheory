@@ -1,5 +1,7 @@
 # Phenomenon-Driven Cosmic Evolution
 
+Copyright (c) 2025 Kaisheng Li & Longji Li. Licensed under CC BY-SA 4.0.
+
 ## Aggregation as the Mode of Cosmic Evolution
 
 Quarks → Hadrons → Atoms → Molecules → Celestial Bodies—the mode of cosmic evolution is **aggregation**.
