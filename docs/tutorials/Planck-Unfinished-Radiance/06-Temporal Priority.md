@@ -1,5 +1,7 @@
 # Chapter 2: Planck and Einstein — The Convergence of Micro and Macro
 
+Copyright (c) 2025 Kaisheng Li & Longji Li. Licensed under CC BY-SA 4.0.
+
 ## 2.1 Temporal Priority
 
 Planck's formula ($E = h\nu$, 1900) preceded Einstein's mass-energy equivalence formula ($E = mc^2$, 1905) by five years, with its concept of energy quantization laying the crucial theoretical foundation for the proposal of mass-energy equivalence. By resolving the blackbody radiation problem and introducing discrete energy quanta, Planck overturned the continuity assumption of classical physics, revealing that energy in the microscopic world is quantized in units of $h\nu$. This breakthrough not only solved an experimental conundrum but also created an opportunity to reexamine the fundamental relationship between energy and matter.
