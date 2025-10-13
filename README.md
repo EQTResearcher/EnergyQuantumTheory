@@ -41,19 +41,19 @@ All things evolve from the simple rules of energy quanta.
 ## 📚 Navigating the EQT Universe
 
 ### For All Visitors (Start Here)
-**We strongly recommend all readers begin with our philosophical foundation:**
+> **We strongly recommend all readers begin with our philosophical foundation:**
 
 - [**The Choice of Foundational Premises**](docs/Origin/) - Understanding why Planck's formula is considered the first principle in EQT.
 
 ### For Beginners & the Curious
-**Dive into the conceptual foundations:**
+> **Dive into the conceptual foundations:**
 
 - [**Phenomenon-driven Thinking**](docs/tutorials/Phenomenon-driven-thinking/) - The core methodology of EQT
 - [**Planck's Unfinished Radiance**](docs/tutorials/Planck-Unfinished-Radiance/) - Energy Quanta Theory and Micro Mass-Energy Unification
 - [**The Science and Philosophy of the Energy Universe**](docs/tutorials/The-Science-and-Philosophy-of-the-Energy-Universe/) - Broader implications
 
 ### For Researchers & Developers
-**Explore the formal theoretical framework:**
+> **Explore the formal theoretical framework:**
 
 - [**Theory Fundamentals**](docs/theory/01-fundamentals.md) - Overall framework of EQT
 - [**Energy Quanta and Mass Quanta**](docs/theory/02-Energy-Quanta-and-Mass-Quanta.md) - Core concepts
