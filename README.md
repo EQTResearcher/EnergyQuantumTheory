@@ -66,6 +66,25 @@ All things evolve from the simple rules of energy quanta.
 
 ---
 
+## 🤝 Join Our Collaborative Revolution
+
+### Community Resources
+- [**Community Development Plan**](community/01-Community-Development-Plan.md) - Our vision and growth strategy
+- [**Community Operations**](community/02-Community-Operations.md) - How we work together
+- [**Contributing Guide**](community/03-contributing.md) - How to get involved
+- [**Code of Conduct**](community/04-code_of_conduct.md) - Our community standards
+- [**Project Roadmap**](community/ROADMAP.md) - Development trajectory
+- [**Good First Issues**](community/good-first-issues.md) - Perfect for new contributors
+
+### How to Participate
+1. **Start Reading**: Begin with the recommended reading paths above
+2. **Join Discussion**: Visit our Discord community
+3. **Ask Questions**: Open an Issue for conceptual discussions
+4. **Contribute**: Check our Good First Issues or propose new ideas
+5. **Collaborate**: Review open Pull Requests and provide feedback
+
+---
+
 **This is more than a theory; it is a living, evolving digital entity.** It springs from the belief that **when the world's brightest minds are connected by GitHub's collaborative engine and amplified by AI as a thinking partner, we will inevitably reach that ultimate, unified answer.**
 
 **We are not just writing a paper; we are collectively coding the operating system of the universe.**
