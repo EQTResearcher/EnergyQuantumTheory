@@ -45,6 +45,25 @@ All things evolve from the simple rules of energy quanta.
 
 - [**The Choice of Foundational Premises**](docs/Origin/) - Understanding why Planck's formula is considered the first principle in EQT.
 
+### For Beginners & the Curious
+**Dive into the conceptual foundations:**
+
+- [**Phenomenon-driven Thinking**](docs/tutorials/Phenomenon-driven-thinking.md) - The core methodology of EQT
+- [**Planck's Unfinished Radiance**](docs/tutorials/Planck-Unfinished-Radiance.md) - Energy Quanta Theory and Micro Mass-Energy Unification
+- [**The Science and Philosophy of the Energy Universe**](docs/tutorials/The-Science-and-Philosophy-of-the-Energy-Universe.md) - Broader implications
+
+### For Researchers & Developers
+**Explore the formal theoretical framework:**
+
+- [**Theory Fundamentals**](docs/theory/01-fundamentals.md) - Overall framework of EQT
+- [**Energy Quanta and Mass Quanta**](docs/theory/02-Energy-Quanta-and-Mass-Quanta.md) - Core concepts
+- [**The Quantum Frequency Table**](docs/theory/03-The-Quantum-Frequency-Table.md) - Fundamental particle frequencies
+- [**Energy Quanta Density Field**](docs/theory/04-Energy-Quanta-Density-Field.md) - Mathematical foundation
+- [**Force Mechanisms**](docs/theory/05-Force.md) - Origin of forces
+- [**Dynamic Equations**](docs/theory/06-Dynamic-Equations-of-Energy-Quanta-Theory.md) - Formal mathematics
+- [**Multi-Frequency Framework**](docs/theory/07-Multi-Frequency-Framework-and-Co-Frequency-Resonance-Mechanism.md) - Advanced dynamics
+- [**Concepts of Time and Space**](docs/theory/08-The-Concepts-of-Time-and-Space-in-Energy-Quanta-Theory.md) - Spacetime in EQT
+
 ---
 
 **This is more than a theory; it is a living, evolving digital entity.** It springs from the belief that **when the world's brightest minds are connected by GitHub's collaborative engine and amplified by AI as a thinking partner, we will inevitably reach that ultimate, unified answer.**
