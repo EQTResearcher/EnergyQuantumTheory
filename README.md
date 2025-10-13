@@ -91,19 +91,10 @@ All things evolve from the simple rules of energy quanta.
 
 ---
 
-### Structure
-- `docs/theory/`: Planck’s formula, force, dynamics, Higgs coupling.
-- `code/simulations/`: Galaxy formation, CMB spectrum.
-- `data/`: LIGO, LHC datasets.
-- `experiments/`: Resonance tests, graviton detection.
+*"The most exciting phrase to hear in science, the one that heralds new discoveries, is not 'Eureka!' but 'That's funny...'" - Isaac Asimov*
 
+---
 
-### How to Contribute
-1. Clone: `git clone https://github.com/username/EQT-Research.git`
-2. Read: `docs/theory/`
-3. Submit: Pull Requests with code/theory
-Join us on X: #EQTChallenge
-Contact: lkshbj@sina.com
 ### Licensing
 - **Code**: Licensed under the [MIT License](LICENSE-CODE).
 - **Documentation**: Licensed under the [CC BY-SA 4.0 License](LICENSE-DOCS).
