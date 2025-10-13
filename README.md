@@ -38,6 +38,15 @@ All things evolve from the simple rules of energy quanta.
 
 ---
 
+## 📚 Navigating the EQT Universe
+
+### For All Visitors (Start Here)
+**We strongly recommend all readers begin with our philosophical foundation:**
+
+- [**The Choice of Foundational Premises**](docs/Origin/The-Choice-of-Foundational-Premises.md) - Understanding why Planck's formula is considered the first principle in EQT.
+
+---
+
 **This is more than a theory; it is a living, evolving digital entity.** It springs from the belief that **when the world's brightest minds are connected by GitHub's collaborative engine and amplified by AI as a thinking partner, we will inevitably reach that ultimate, unified answer.**
 
 **We are not just writing a paper; we are collectively coding the operating system of the universe.**
