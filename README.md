@@ -56,7 +56,7 @@ All things evolve from the simple rules of energy quanta.
 **Explore the formal theoretical framework:**
 
 - [**Theory Fundamentals**](docs/theory/01-fundamentals.md) - Overall framework of EQT
-- [**Energy Quanta and Mass Quanta**](docs/theory/02-Energy-Quanta-and-Mass-Quanta.md) - Core concepts
+- [**Energy Quanta and Mass Quanta**](docs/theory/02-Energy Quanta and Mass Quanta.md) - Core concepts
 - [**The Quantum Frequency Table**](docs/theory/03-The-Quantum-Frequency-Table.md) - Fundamental particle frequencies
 - [**Energy Quanta Density Field**](docs/theory/04-Energy-Quanta-Density-Field.md) - Mathematical foundation
 - [**Force Mechanisms**](docs/theory/05-Force.md) - Origin of forces
