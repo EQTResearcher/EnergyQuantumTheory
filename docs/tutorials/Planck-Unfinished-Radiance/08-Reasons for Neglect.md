@@ -9,3 +9,5 @@ In contrast, Planck's formula remained confined to the microscopic domain, initi
 While Planck's formula describes the microscopic behavior of energy quanta (such as photons) through frequency and contains profound insights about mass-energy unity, its complexity in experimental verification (as seen in the photoelectric effect requiring Einstein's subsequent explanation) and theoretical abstraction prevented immediate widespread discussion. Additionally, Planck's cautious personal attitude and the conservative scientific atmosphere of his time allowed the fundamental truth of $E = h\nu$ to be overshadowed by the brilliant macroscopic implications of $E = mc^2$.
 
 Society's focus on technological progress further amplified the impact of $E = mc^2$, while Planck's formula, as a pioneering concept in microscopic mass-energy relationships, saw its profound potential long overlooked.
+
+Copyright (c) 2025 Kaisheng Li & Longji Li. Licensed under CC BY-SA 4.0.
