@@ -3,6 +3,7 @@
 > **A collective intelligence experiment on GitHub, aiming to unify the four fundamental forces with energy quanta and reshape the future of theoretical physics.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE-CODE)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE-DOCS)
 [![Discord](https://img.shields.io/badge/Discord-Join%20the%20Conversation-7289da)](https://discord.gg/your-actual-link)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](community/03-contributing.md)
 
