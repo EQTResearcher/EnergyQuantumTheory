@@ -12,3 +12,6 @@ The convergence of these two principles emerges through the transformation $E = 
 - Mass quanta like electrons ($\nu \approx 1.24 \times 10^{20} \, \text{Hz}$) can be expressed through frequency conversion via $E = mc^2$
 
 This unification demonstrates that Planck's concept of microscopic quantization provided the theoretical prerequisite for Einstein's macroscopic mass-energy equivalence. $E = h\nu$ serves not only as the starting point of quantum mechanics but also as a bridge connecting the microscopic and macroscopic realms. However, while the scientific community has predominantly focused on macroscopic applications of $E = mc^2$ (such as nuclear energy), the potential of Planck's formula to unify microscopic mass-energy relationships has long been overlooked.
+
+Copyright (c) 2025 Kaisheng Li & Longji Li. Licensed under CC BY-SA 4.0.
+
