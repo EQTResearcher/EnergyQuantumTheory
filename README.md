@@ -48,9 +48,9 @@ All things evolve from the simple rules of energy quanta.
 ### For Beginners & the Curious
 **Dive into the conceptual foundations:**
 
-- [**Phenomenon-driven Thinking**](docs/tutorials/Phenomenon-driven-thinking.md) - The core methodology of EQT
-- [**Planck's Unfinished Radiance**](docs/tutorials/Planck-Unfinished-Radiance.md) - Energy Quanta Theory and Micro Mass-Energy Unification
-- [**The Science and Philosophy of the Energy Universe**](docs/tutorials/The-Science-and-Philosophy-of-the-Energy-Universe.md) - Broader implications
+- [**Phenomenon-driven Thinking**](docs/tutorials/Phenomenon-driven-thinking/) - The core methodology of EQT
+- [**Planck's Unfinished Radiance**](docs/tutorials/Planck-Unfinished-Radiance/) - Energy Quanta Theory and Micro Mass-Energy Unification
+- [**The Science and Philosophy of the Energy Universe**](docs/tutorials/The-Science-and-Philosophy-of-the-Energy-Universe/) - Broader implications
 
 ### For Researchers & Developers
 **Explore the formal theoretical framework:**
