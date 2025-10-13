@@ -43,7 +43,7 @@ All things evolve from the simple rules of energy quanta.
 ### For All Visitors (Start Here)
 **We strongly recommend all readers begin with our philosophical foundation:**
 
-- [**The Choice of Foundational Premises**](docs/Origin/The-Choice-of-Foundational-Premises.md) - Understanding why Planck's formula is considered the first principle in EQT.
+- [**The Choice of Foundational Premises**](docs/Origin/) - Understanding why Planck's formula is considered the first principle in EQT.
 
 ---
 
