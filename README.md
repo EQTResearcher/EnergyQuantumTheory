@@ -4,7 +4,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE-CODE)
 [![Discord](https://img.shields.io/badge/Discord-Join%20the%20Conversation-7289da)](https://discord.gg/your-actual-link)
-[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](community/CONTRIBUTING.md)
+[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](community/03-contributing.md)
 
 ## 🚀 Welcome to a Scientific Paradigm Shift
 
