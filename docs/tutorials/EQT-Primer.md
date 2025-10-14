@@ -29,9 +29,9 @@ Using $E = h\nu$ to calculate characteristic frequencies reveals a natural bound
 
 | Frequency Range       | Particle Examples                 | Physical Characteristics |
 |-----------------------|-----------------------------------|--------------------------|
-| >$10^{26}$ Hz        | (Ultra-high frequency gap, TBD)  | New mass quanta?         |
-| $10^{20}$–$10^{26}$ Hz | W/Z/Higgs (~$10^{25}$ Hz), top quark | Transition zone: Mass-energy convergence |
-| <$10^{20}$ Hz        | Photons (broad spectrum), gravitons (~$10^2$–$10^{10}$ Hz) | Energy quanta domain |
+| > $10^{26}$ Hz        | (Ultra-high frequency gap, TBD)  | New mass quanta?         |
+| $10^{20}$ – $10^{26}$ Hz | W/Z/Higgs (~$10^{25}$ Hz), top quark | Transition zone: Mass-energy convergence |
+| < $10^{20}$ Hz        | Photons (broad spectrum), gravitons (~$10^2$–$10^{10}$ Hz) | Energy quanta domain |
 
 ### Three-Zone Physical Picture
 1. **Low-Frequency Zone (<$10^{20}$ Hz)** – Energy Quanta Realm:
