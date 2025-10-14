@@ -1,8 +1,3 @@
-# Pre-commit Configuration
-
-This file (`code/.pre-commit-config.yaml`) configures the pre-commit hooks used to enforce code quality and consistency before Git commits. Below is the configuration with translated names and descriptions.
-
-```yaml
 repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
     rev: v4.6.0
