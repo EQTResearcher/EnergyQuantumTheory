@@ -1,0 +1,42 @@
+# Pre-commit Configuration
+
+This file (`code/.pre-commit-config.yaml`) configures the pre-commit hooks used to enforce code quality and consistency before Git commits. Below is the configuration with translated names and descriptions.
+
+```yaml
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.6.0
+    hooks:
+      - id: trailing-whitespace
+        name: Check Trailing Whitespace
+        description: Removes trailing whitespace from code.
+      - id: end-of-file-fixer
+        name: Fix End of File
+        description: Ensures files end with a single newline.
+      - id: check-yaml
+        name: Check YAML File Format
+        description: Validates the syntax of YAML files.
+      - id: check-added-large-files
+        name: Check Large Files
+        description: Prevents committing oversized files (default limit: 500KB).
+  - repo: https://github.com/psf/black
+    rev: 24.8.0
+    hooks:
+      - id: black
+        name: Format Python Code
+        description: Automatically formats Python code with Black for consistent style.
+        language_version: python3.10
+  - repo: https://github.com/pycqa/flake8
+    rev: 7.1.0
+    hooks:
+      - id: flake8
+        name: Python Static Code Analysis
+        description: Checks Python code for style and potential errors using Flake8.
+        args: [--max-line-length=88, --extend-ignore=E203]
+  - repo: https://github.com/PyCQA/isort
+    rev: 5.13.2
+    hooks:
+      - id: isort
+        name: Sort Python Imports
+        description: Automatically sorts Python import statements with isort.
+        args: [--profile=black]
