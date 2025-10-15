@@ -1,5 +1,7 @@
 # EQT Primer: Foundations of Energy Quantum Theory
 
+Copyright (c) 2025 Kaisheng Li & Longji Li. Licensed under CC BY-SA 4.0.
+
 ## 🎯 Core Concept: Energy Quanta vs. Mass Quanta
 
 ### Limitations of Traditional Classification
