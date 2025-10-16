@@ -11,6 +11,7 @@ authors:
     given-names: Longji
 license: cc-by-sa-4.0
 repository-code: https://github.com/EQTResearcher/EnergyQuantumTheory
+doi: 10.5281/zenodo.17373250
 abstract: "Energy Quantum Theory (EQT) provides a core theoretical framework unifying fundamental forces through energy quanta density fields. This project includes documentation (licensed under CC BY-SA 4.0) and supporting software (licensed under MIT)."
 keywords:
   - energy quantum theory
