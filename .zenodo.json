@@ -1,14 +1,29 @@
 {
-  "title": "Energy Quantum Theory (EQT) Core v1.0",
-  "description": "Core theoretical framework for EQT, unifying fundamental forces through energy quanta density fields.",
+  "title": "Energy Quantum Theory (EQT)",
+  "version": "v0.1.1",
+  "description": "Core theoretical framework for Energy Quantum Theory (EQT), unifying fundamental forces through energy quanta density fields. This project primarily consists of documentation (licensed under CC BY-SA 4.0) with supporting software (licensed under MIT).",
+  "upload_type": "publication",
+  "publication_type": "other",
+  "publication_date": "2025-10-16",
   "creators": [
     {
-      "name": "Kaisheng Li",
+      "name": "Li, Kaisheng",
       "orcid": "0009-0008-4712-8841"
+    },
+    {
+      "name": "Li, Longji",
     }
   ],
   "keywords": ["energy quantum theory", "physics", "open science", "unified theory"],
-  "license": "cc-by-4.0",
+  "license": "cc-by-sa-4.0",
   "access_right": "open",
-  "communities": [{"identifier": "eqt-research"}]
+  "communities": [{"identifier": "eqt-research"}],
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://github.com/EQTResearcher/EnergyQuantumTheory",
+      "resource_type": "software"
+    }
+  ],
+  "notes": "Documentation is licensed under CC BY-SA 4.0; supporting software is licensed under MIT. See README.md or LICENSE files for details. DOI is pending, check repository for updates."
 }
