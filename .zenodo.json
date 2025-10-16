@@ -20,6 +20,11 @@
   "communities": [{"identifier": "eqt-research"}],
   "related_identifiers": [
     {
+      "relation": "isVersionOf",
+      "identifier": "doi: 10.5281/zenodo.17373250,
+      "resource_type": "publication"
+    },
+    {
       "relation": "isSupplementTo",
       "identifier": "https://github.com/EQTResearcher/EnergyQuantumTheory",
       "resource_type": "software"
