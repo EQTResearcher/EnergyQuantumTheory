@@ -1,6 +1,6 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
-title: Energy Quantum Theory (EQT)
+message: "If you use this project, please cite it as below."
+title: "Energy Quantum Theory (EQT)"
 version: v0.1.1
 date-released: 2025-10-16
 authors:
@@ -9,5 +9,11 @@ authors:
     orcid: https://orcid.org/0009-0008-4712-8841
   - family-names: Li
     given-names: Longji
-license: MIT
+license: cc-by-sa-4.0
 repository-code: https://github.com/EQTResearcher/EnergyQuantumTheory
+abstract: "Energy Quantum Theory (EQT) provides a core theoretical framework unifying fundamental forces through energy quanta density fields. This project includes documentation (licensed under CC BY-SA 4.0) and supporting software (licensed under MIT)."
+keywords:
+  - energy quantum theory
+  - physics
+  - open science
+  - unified theory
