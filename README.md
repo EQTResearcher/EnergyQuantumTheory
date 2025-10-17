@@ -6,6 +6,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE-DOCS)
 [![Discord](https://img.shields.io/badge/Discord-Join%20the%20Conversation-7289da)](https://discord.gg/your-actual-link)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](community/03-contributing.md)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17373250.svg)](https://doi.org/10.5281/zenodo.17373250)
 
 ## 🚀 Welcome to a Scientific Paradigm Shift
 
