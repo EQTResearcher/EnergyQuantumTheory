@@ -21,7 +21,7 @@
 We start from a simple physical picture: **the universe is composed of energy quanta and their density field $\rho(\mathbf{r}, t)$**.
 
 ### The Origin of Force
-** $\mathbf{F} \propto -\nabla \rho$ **
+** $ \mathbf{F} \propto -\nabla \rho $ **
 
 Force is no longer a mysterious action-at-a-distance, but the natural result of a system tending towards energy minimization, driven by the **energy quanta density gradient $\nabla \rho$**.
 
